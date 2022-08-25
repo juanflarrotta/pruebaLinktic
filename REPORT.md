@@ -13,3 +13,4 @@
 
  3. Después de descartar la primera opción se realiza el filtro de las palabras mediante JS, el cual cada vez que cambie el valor en el input el ejecuta una funcion que hace un filter y compara con la lista de items devolviendo el array con los ítems que contengan las letras que escribimos, esto se refresca en una variable con método de reactividad lo que hace que actualice la información y haga un nuevo renderizado.
 
+
